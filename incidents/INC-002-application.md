@@ -35,7 +35,7 @@ User is unable to access applications required for daily work. Single user impac
 
 ## Escaltion Decision
 
-Resolved at first line. Issue related to cached credentials follwoing password reset.
+Resolved at first line. Issue related to cached credentials following password reset.
 
 ## Resolution
 

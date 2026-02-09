@@ -40,8 +40,6 @@ Resolved at first line. Device performance returned to normal after applying pen
 
 ## Resolution
 
-## Resolution
-
 User was able to resume normal use of their device and complete daily work tasks after pending updates were applied.
 
 ## Post-Incident Notes / Prevention
